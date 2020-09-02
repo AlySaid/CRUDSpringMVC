@@ -49,7 +49,7 @@ public class BookController {
 		return ResponseEntity.ok().body("book has been updated");
 	}
 	
-	//delete a single book
+	//delete a book
 	@DeleteMapping("/api/book/{id}")
 	public ResponseEntity<?> delete(@PathVariable("id") long id){
 		bookService.delete(id);
