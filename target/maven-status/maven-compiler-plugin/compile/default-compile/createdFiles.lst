@@ -1,0 +1,9 @@
+com\alySaid\spring\config\AppConfig.class
+com\alySaid\spring\config\MyWebAppInitializer.class
+com\alySaid\spring\service\BookService.class
+com\alySaid\spring\service\BookServiceImp.class
+com\alySaid\spring\model\Book.class
+com\alySaid\spring\dao\BookDAOImp.class
+com\alySaid\spring\controller\BookController.class
+com\alySaid\spring\dao\BookDAO.class
+com\alySaid\spring\config\WebConfig.class
